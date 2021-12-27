@@ -17,4 +17,5 @@ print(response.json())
 
 
 # this outputs a json, with all the details, co-ordinates, duration, distance etc from the origin to destination entered
+# this json can be manipulated as per our requirement
 # **you need to have a valid API key with billing enabled**
